@@ -1,0 +1,9 @@
+{
+  "name": "number-management-service",
+  "version": "1.0.0",
+  "main": "number-management-service.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "2.88.2"
+  }
+}
